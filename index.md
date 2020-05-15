@@ -1,6 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to Green World
 
-You can use the [editor on GitHub](https://github.com/mallivarma/pailee-s-green/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+This is an example of Green world site...
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
@@ -11,9 +11,9 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+# Pailee's world
+## You will get more fun
+### Keep watching and like us
 
 - Bulleted
 - List
